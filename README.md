@@ -1,5 +1,3 @@
-# ChristianHerrera
-My bio
 ### Christian Herrera
 
 **Computer Science Student | Aspiring Security Engineer & Full Stack Developer**
