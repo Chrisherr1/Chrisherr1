@@ -1,55 +1,68 @@
-## Christian Herrera
+# Christian Herrera
 
-**Computer Science Student | Aspiring Security Engineer & Full Stack Developer**
+**Backend Engineer in Training | Spring Boot • APIs • IoT Systems**
 
-Student developer exploring the intersection of cybersecurity and full stack development. Building secure, scalable applications while deepening knowledge in application security, secure coding practices, and modern web technologies.
+Building reliable backend systems with Spring Boot, IoT integrations, and secure‑by‑default engineering. I focus on clean architecture, service layering, and intuitive system design — turning real‑world problems into maintainable, scalable solutions.
 
 ---
 
-### Technologies
+## Core Strengths
+- Backend Architecture — REST APIs, service layering, dependency injection, data modeling
+- Spring Boot Engineering — controllers, services, repositories, bean lifecycle intuition
+- IoT Systems — ESP32, MQTT, LoRa, device‑to‑cloud pipelines
+- Secure Coding — authentication, authorization, input validation, threat‑aware design
+
+---
+
+## Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5"/>
-  <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031"/>
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet&logoColor=512BD4"/>
   <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F"/>
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-</p>
-
-### Security & Development Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-OAuth-05122A?style=flat&logo=oauth"/>
-  <img src="https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=1679A7"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/-OWASP-05122A?style=flat&logo=owasp"/>
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
 </p>
 
 ---
-### Certifications
+
+## Security & Development Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-OWASP-05122A?style=flat&logo=owasp"/>
+  <img src="https://img.shields.io/badge/-OAuth-05122A?style=flat&logo=oauth"/>
+  <img src="https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=1679A7"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
+</p>
+
+---
+
+## Current Projects
+- IoT Monitoring Pipeline — ESP32 → MQTT → Spring Boot backend → dashboard
+- Spring Boot API Template — production‑ready structure with logging, error handling, testing
+- Secure API Demo — JWT auth, RBAC, input validation, hardened endpoints
+
+---
+
+## Certifications
 <p align="center">
   <img src="https://img.shields.io/badge/🟡%20CompTIA%20Security+-05122A?style=flat&logo=comptia&logoColor=CE3B2F"/>
   <img src="https://img.shields.io/badge/🟡%20Cisco%20CCNA-05122A?style=flat&logo=cisco&logoColor=1BA0D7"/>
 </p>
 
-**Legend:** ✓ Obtained | ✗ Not Yet Obtained | 🟡 Currently Working On
+**Legend:** ✓ Obtained | ✗ Not Yet Obtained | 🟡 In Progress
 
 ---
 
-### Areas of Focus
-- **Application Security** – Secure coding, vulnerability assessment, authentication/authorization
-- **Full Stack Development** – Building end-to-end web applications with modern frameworks
-- **Backend Engineering** – RESTful APIs, database design, server-side architecture
-- **Frontend Development** – Responsive UI/UX, modern JavaScript frameworks
+## Engineering Philosophy
+- Reliability over cleverness — predictable systems beat fragile ones
+- Architecture first — design before code
+- Intuition‑driven learning — understand why, not just how
 
 ---
 
-### Connect with me
+## Connect with Me
 <p align="center">
   <a href="https://christianherrera.dev">
     <img src="https://img.shields.io/badge/-Portfolio-4B5563?style=flat&logo=Google-Chrome&logoColor=white"/>
