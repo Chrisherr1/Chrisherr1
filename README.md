@@ -67,7 +67,7 @@ Building reliable backend systems with Spring Boot, IoT integrations, and secure
   <a href="https://christianherrera.dev">
     <img src="https://img.shields.io/badge/-Portfolio-4B5563?style=flat&logo=Google-Chrome&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/christianherreradev">
     <img src="https://img.shields.io/badge/-LinkedIn-4B5563?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Chrisherr1">
