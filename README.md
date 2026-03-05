@@ -1,5 +1,5 @@
 # Christian Herrera  
-**Backend Engineer in Training | Spring Boot • APIs • IoT Systems**
+**Backend Engineer in Training | Spring Boot • Express.js • APIs • System Design
 
 I build reliable backend systems.
 
@@ -13,11 +13,12 @@ I build reliable backend systems.
 - Improved team development speed through clear API design and predictable service layering.  
 - Demonstrates real collaboration, version control discipline, and production‑minded architecture.
 
-## IoT Monitoring Pipeline (In Progress)
-- Designing a long‑range sensor network using ESP32 + LoRa.  
-- Building an MQTT ingestion service with Spring Boot for real‑time telemetry.  
-- Implementing device identity, heartbeat monitoring, and time‑series storage.  
+## IoT Monitoring using The Things Network (ARCS Project)
+- Designing a long‑range sensor network leveraging The Things Network.
+- Building an MQTT ingestion service with Express.js for real‑time telemetry.  
+- Implementing device identity and proper data logging.
 - Focused on reliability, packet integrity, and scalable device‑to‑cloud architecture.
+- Created endpoints for mobile application to use.
 
 ## Secure API Template (In Progress)
 - Implementing JWT authentication, RBAC, validation, and centralized error handling.  
@@ -59,19 +60,21 @@ I build reliable backend systems.
 ---
 
 # Certifications
-<p align="center">
-  <img src="https://img.shields.io/badge/CompTIA%20Security+-05122A?style=flat&logo=comptia&logoColor=CE3B2F"/>
-  <img src="https://img.shields.io/badge/Cisco%20CCNA-05122A?style=flat&logo=cisco&logoColor=1BA0D7"/>
-</p>
-
-Focused on strengthening my understanding of secure networking, authentication, and infrastructure fundamentals to support backend and IoT systems.
+Create REST APIs with Spring and Java — Codecademy
+- Skill Path completed: controllers, routing, data handling, and production‑ready API structure.
+  https://www.codecademy.com/profiles/Chrisherr1/certificates/60f1edf0ac9368001c6025c4
 
 ---
 
-# Engineering Philosophy
-- Architecture first — design before code  
-- Intuition‑driven learning — understand why, not just how  
+## Books
+- *Spring Start Here* — Laurentiu Spilca  
+  `██░░░░░░░░` 20%  
+  Backend focus: building solid Spring Boot fundamentals and project structure.
 
+- *The Design of Web APIs* — Arnaud Lauret  
+  `██░░░░░░░░` 20%  
+  Backend focus: designing consistent, maintainable, and consumer‑friendly APIs.
+  
 ---
 
 # Connect with Me
