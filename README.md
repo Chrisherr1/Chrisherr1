@@ -39,22 +39,12 @@ I build reliable backend systems.
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
-</p>
-
----
-
-# Security & Development Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-OWASP-05122A?style=flat&logo=owasp"/>
-  <img src="https://img.shields.io/badge/-OAuth-05122A?style=flat&logo=oauth"/>
-  <img src="https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=1679A7"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
+  
 </p>
 
 ---
