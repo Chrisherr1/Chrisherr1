@@ -1,8 +1,7 @@
 # Christian Herrera  
 **Backend Engineer in Training | Spring Boot • APIs • IoT Systems**
 
-I build reliable backend systems and IoT pipelines that solve real‑world problems.
-My work focuses on clean architecture, predictable behavior, and systems that stay maintainable long after the first commit.
+I build reliable backend systems.
 
 ---
 
