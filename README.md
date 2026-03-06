@@ -19,12 +19,7 @@ I build reliable backend systems.
 - Implementing device identity and proper data logging.
 - Focused on reliability, packet integrity, and scalable device‑to‑cloud architecture.
 - Created endpoints for mobile application to use.
-
-## Secure API Template (In Progress)
-- Implementing JWT authentication, RBAC, validation, and centralized error handling.  
-- Designed as a reusable foundation for future backend projects.  
-- Focused on production‑ready patterns and secure‑by‑default engineering.
-
+  
 ---
 
 # Core Strengths
