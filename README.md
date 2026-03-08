@@ -23,10 +23,9 @@ I build reliable backend systems.
 ---
 
 # Core Strengths
-- Backend Architecture — REST APIs, service layering, dependency injection, data modeling  
-- Spring Boot Engineering — controllers, services, repositories, bean lifecycle intuition  
-- IoT Systems — ESP32, MQTT, LoRa, device‑to‑cloud pipelines  
-- Secure Coding — authentication, authorization, input validation, threat‑aware design  
+- Backend Architecture & Security — REST API design, service layering, dependency injection, data modeling, authentication, authorization, and input validation
+- Spring Boot Engineering — controller/service/repository patterns, bean lifecycle, Spring context DI, JPA repositories
+- Express.js Engineering — routing structure, middleware design, request validation, modular API development
 
 ---
 
