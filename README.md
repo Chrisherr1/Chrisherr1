@@ -51,18 +51,23 @@ Create REST APIs with Spring and Java — Codecademy
 - Skill Path completed: controllers, routing, data handling, and production‑ready API structure.
   https://www.codecademy.com/profiles/Chrisherr1/certificates/60f1edf0ac9368001c6025c4
 
----
-
 ## Books
 - *Spring Start Here* — Laurentiu Spilca  
   `██░░░░░░░░` 20%  
   Backend focus: building solid Spring Boot fundamentals and project structure.
-
+ 
 - *The Design of Web APIs* — Arnaud Lauret  
   `██░░░░░░░░` 20%  
   Backend focus: designing consistent, maintainable, and consumer‑friendly APIs.
-  
----
+ 
+- *Grokking Algorithms* — Aditya Bhargava  
+  `██░░░░░░░░` 20%  
+  CS fundamentals: visual, beginner-friendly intro to essential algorithms and data structures.
+ 
+- *Grokking Web Security* — Malcolm McDonald  
+  `█████░░░░░` 50%  
+  Security focus: practical web security concepts including common vulnerabilities and defenses.
+ 
 
 # Connect with Me
 <p align="center">
@@ -75,7 +80,7 @@ Create REST APIs with Spring and Java — Codecademy
   <a href="https://github.com/Chrisherr1">
     <img src="https://img.shields.io/badge/GitHub-4B5563?style=flat&logo=GitHub&logoColor=white"/>
   </a>
-  <a href="mailto:Christian.herrera.dev.com">
+  <a href="mailto:Christian.herrera.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-4B5563?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </p>
