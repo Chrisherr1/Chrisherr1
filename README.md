@@ -10,6 +10,12 @@ I build reliable backend systems.
 
 # Featured Projects
 
+## Kiki's Weather Delivery — Desktop Weather App (Personal Project)
+- Built a cross-platform menu bar weather app for macOS and Windows using Electron.
+- Modularized the architecture across tray, weather, and notification modules with clean separation of concerns.
+- Integrated the Pirate Weather API with location resolution, silent retry logic, and context-aware push notifications.
+- Packaged and distributed as native installers on both platforms using electron-builder.
+
 ## Notepad — Self‑Hosted Note‑Taking App (Collaborative Project)
 - Designed and implemented backend logic for a self‑hosted note‑taking platform.  
 - Built structured CRUD operations, authentication, and consistent data modeling.  
