@@ -10,24 +10,29 @@ I build reliable backend systems.
 
 # Featured Projects
 
-## Kiki's Weather Delivery — Desktop Weather App (Personal Project)
-- Built a cross-platform menu bar weather app for macOS and Windows using Electron.
-- Modularized the architecture across tray, weather, and notification modules with clean separation of concerns.
-- Integrated the Pirate Weather API with location resolution, silent retry logic, and context-aware push notifications.
-- Packaged and distributed as native installers on both platforms using electron-builder.
+## WebWeavr — Passive Reconnaissance Platform (Personal Project)
+- Zero-footprint OSINT tool that maps a target's external surface without sending a single packet.
+- Aggregates 11 third-party sources and streams results in real time via SSE.
+- Deployed via Docker behind Nginx with full TLS, CSP, HSTS, and rate limiting.
+- Live: [Deployed](https://webweavr.christianherrera.dev) | [Repo](https://github.com/Chrisherr1/WebWeavr)
 
-## Notepad — Self‑Hosted Note‑Taking App (Collaborative Project)
-- Designed and implemented backend logic for a self‑hosted note‑taking platform.  
-- Built structured CRUD operations, authentication, and consistent data modeling.  
-- Improved team development speed through clear API design and predictable service layering.  
-- Demonstrates real collaboration, version control discipline, and production‑minded architecture.
+## Kiki's Weather Delivery — Desktop Weather App (Personal Project)
+- Cross-platform macOS/Windows menu bar weather app built with Electron.
+- Modular architecture across tray, weather, and notification modules.
+- Pirate Weather API integration with location resolution and context-aware notifications.
+- [Repo](https://github.com/Chrisherr1/Kiki-s-Weather-Delivery)
+
+## Notepad — Self-Hosted Note-Taking App (Collaborative Project)
+- Backend for a self-hosted note-taking platform with structured CRUD and authentication.
+- Layered service architecture with consistent data modeling and clear API contracts.
+- Production-minded design built collaboratively with version control discipline.
+- Live: [Deployed](https://notepad.christianherrera.dev) | [Repo](https://github.com/Chrisherr1/NotePad-Security-Project)
 
 ## IoT Monitoring using The Things Network (ARCS Project)
-- Designing a long‑range sensor network leveraging The Things Network.
-- Building an MQTT ingestion service with Express.js for real‑time telemetry.  
-- Implementing device identity and proper data logging.
-- Focused on reliability, packet integrity, and scalable device‑to‑cloud architecture.
-- Created endpoints for mobile application to use.
+- Long-range sensor network on The Things Network with MQTT ingestion via Express.js.
+- Implements device identity, real-time telemetry logging, and reliable packet handling.
+- Exposes endpoints consumed by a mobile application.
+- [Repo](https://github.com/Alanj818/Woope/tree/dev-christian)
 
 ---
 
