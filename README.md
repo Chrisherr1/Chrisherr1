@@ -28,13 +28,6 @@ I build reliable backend systems.
 - Implementing device identity and proper data logging.
 - Focused on reliability, packet integrity, and scalable device‑to‑cloud architecture.
 - Created endpoints for mobile application to use.
-  
----
-
-# Core Strengths
-- Backend Architecture & Security — REST API design, service layering, dependency injection, data modeling, authentication, authorization, and input validation
-- Spring Boot Engineering — controller/service/repository patterns, bean lifecycle, Spring context DI, JPA repositories
-- Express.js Engineering — routing structure, middleware design, request validation, modular API development
 
 ---
 
@@ -49,13 +42,6 @@ I build reliable backend systems.
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
   
 </p>
-
----
-
-# Certifications
-Create REST APIs with Spring and Java — Codecademy
-- Skill Path completed: controllers, routing, data handling, and production‑ready API structure.
-  https://www.codecademy.com/profiles/Chrisherr1/certificates/60f1edf0ac9368001c6025c4
 
 ## Books
 - *Spring Start Here* — Laurentiu Spilca  
