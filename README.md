@@ -10,11 +10,17 @@ I build reliable backend systems.
 
 # Featured Projects
 
+
 ## WebWeavr — Passive Reconnaissance Platform (Personal Project)
 - Zero-footprint OSINT tool that maps a target's external surface without sending a single packet.
 - Aggregates 11 third-party sources and streams results in real time via SSE.
 - Deployed via Docker behind Nginx with full TLS, CSP, HSTS, and rate limiting.
 - Live: [Deployed](https://webweavr.christianherrera.dev) | [Repo](https://github.com/Chrisherr1/WebWeavr)
+
+## Blitzkrieg — Web Fuzzing GUI (Personal Project) `WIP`
+- An Electron-based desktop GUI that unifies ffuf and feroxbuster into a single visual pipeline.
+- Configure, chain, and run your entire fuzzing workflow without touching the terminal.
+- [Repo](https://github.com/Chrisherr1/Blitzkrieg)
 
 ## Kiki's Weather Delivery — Desktop Weather App (Personal Project)
 - Cross-platform macOS/Windows menu bar weather app built with Electron.
@@ -39,7 +45,7 @@ I build reliable backend systems.
 # Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F"/>
+    <img src="https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron"/>
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
   <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
