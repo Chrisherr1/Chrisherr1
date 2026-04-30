@@ -58,16 +58,6 @@ I build backend systems and pick them apart.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chrisherr1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=white&icon_color=white&text_color=9ca3af"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisherr1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=white&text_color=9ca3af"/>
-</p>
-
----
-
-
 ## Currently Reading
 
 - *The Design of Web APIs* — Arnaud Lauret  
