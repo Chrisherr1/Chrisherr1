@@ -1,5 +1,5 @@
 # Christian Herrera  
-**Jr Software Engineer |Express.js • Electron.js • APIs • System Design
+Jr Software Engineer | Express.js • Electron.js • APIs • System Design
 
 I build reliable backend systems.
 
