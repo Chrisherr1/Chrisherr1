@@ -10,35 +10,57 @@ I build backend systems and pick them apart.
 ## Featured Projects
 
 ### WebWeavr — Passive Reconnaissance Platform
-- Zero-footprint OSINT tool that maps a target's external surface without sending a single packet.
-- Aggregates 11 third-party sources and streams results in real time via SSE.
-- Deployed via Docker behind Nginx with full TLS, CSP, HSTS, and rate limiting.
-- Live: [Deployed](https://webweavr.christianherrera.dev) | [Repo](https://github.com/Chrisherr1/WebWeavr)
+Live: [webweavr.christianherrera.dev](https://webweavr.christianherrera.dev) | [Repo](https://github.com/Chrisherr1/WebWeavr)
 
-### Blitzkrieg — Web Fuzzing GUI `WIP`
-- Electron desktop app that unifies ffuf and feroxbuster into a single visual pipeline.
-- Built on Electron with a Node.js IPC bridge to the underlying fuzzing binaries.
-- Configure, chain, and run your entire fuzzing workflow without touching the terminal.
-- [Repo](https://github.com/Chrisherr1/Blitzkrieg)
+Zero-footprint OSINT tool that maps a target's external attack surface without generating traffic on their infrastructure.
 
-### Kiki's Weather Delivery — Desktop Weather App
-- Cross-platform macOS/Windows menu bar weather app built with Electron.
-- Modular architecture across tray, weather, and notification modules.
-- Pirate Weather API integration with location resolution and context-aware notifications.
-- [Repo](https://github.com/Chrisherr1/Kiki-s-Weather-Delivery)
-
-### Notepad — Self-Hosted Note-Taking App
-- Backend for a self-hosted note-taking platform with structured CRUD and authentication.
-- Layered service architecture with consistent data modeling and clear API contracts.
-- Production-minded design built collaboratively with version control discipline.
-- Live: [Deployed](https://notepad.christianherrera.dev) | [Repo](https://github.com/Chrisherr1/NotePad-Security-Project)
-
-### IoT Monitoring via The Things Network
-- Long-range sensor network on TTN with MQTT ingestion layer and real-time telemetry logging built in Express.js.
-- Implemented device identity, reliable packet handling, and REST endpoints consumed by a mobile client.
-- [Repo](https://github.com/Alanj818/Woope)
+- SSE-based streaming across 11 passive sources (CT logs, passive DNS, web archives)
+- Dockerized behind Nginx with CSP, HSTS, and edge-layer rate limiting
+- Node.js/Express backend with modular per-source adapters
 
 ---
+
+### Blitzkrieg — Web Fuzzing GUI `WIP`
+[Repo](https://github.com/Chrisherr1/Blitzkrieg)
+
+Electron app that wraps ffuf and feroxbuster into a unified visual pipeline for web content discovery.
+
+- Spawns fuzzing binaries as child processes via Node.js IPC — no performance overhead from the GUI layer
+- Handles configuration, output parsing, and scan chaining across both tools
+- Eliminates terminal context-switching during active engagements
+
+---
+
+### Kiki's Weather Delivery — Desktop Weather App
+[Repo](https://github.com/Chrisherr1/Kiki-s-Weather-Delivery)
+
+Cross-platform menu bar app (macOS/Windows) that delivers context-aware weather alerts passively via system tray.
+
+- Pirate Weather API with startup location resolution to minimize repeated API calls
+- Modular architecture separating tray, polling, and notification concerns
+- Built with Electron; state managed in-process with no persistent window
+
+---
+
+### Notepad — Self-Hosted Note-Taking App
+Live: [notepad.christianherrera.dev](https://notepad.christianherrera.dev) | [Repo](https://github.com/Chrisherr1/NotePad-Security-Project)
+
+Self-hosted note-taking backend with Google OAuth 2.0 and a layered service architecture.
+
+- OAuth 2.0 via Passport.js — no credential storage, eliminates password handling risk
+- Service layer decouples route handlers from data access for consistent authz enforcement
+- Deployed on a personal VPS behind Nginx reverse proxy with TLS termination at the edge
+
+---
+
+### IoT Monitoring via The Things Network
+[Repo](https://github.com/Alanj818/Woope)
+
+MQTT ingestion layer for a LoRaWAN sensor network on TTN with real-time telemetry and a REST API.
+
+- Subscribes to TTN MQTT broker; deduplicates on device EUI and frame counter
+- Express.js REST endpoints consumed by a React Native mobile client
+- Handles out-of-order uplinks and unreliable transmission inherent to LoRaWAN
 
 ## Technologies
 
