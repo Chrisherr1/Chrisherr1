@@ -12,14 +12,7 @@ I build backend systems and pick them apart.
   <a href="https://linkedin.com/in/christianherreradev">
     <img src="https://img.shields.io/badge/LinkedIn-4B5563?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Chrisherr1">
-    <img src="https://img.shields.io/badge/GitHub-4B5563?style=flat&logo=GitHub&logoColor=white"/>
-  </a>
-  <a href="mailto:Christian.herrera.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4B5563?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
-
+  
 ---
 
 ## Featured Projects
