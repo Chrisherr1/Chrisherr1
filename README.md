@@ -25,7 +25,7 @@ I build backend systems and pick them apart.
 ## Featured Projects
 
 **WebWeavr**<br>
-Zero-footprint OSINT tool that maps a target's external attack surface using CT logs, passive DNS, and web archives — no traffic generated on their infrastructure.[Live](https://webweavr.christianherrera.dev) · [Repo](https://github.com/Chrisherr1/WebWeavr)
+Zero-footprint OSINT tool that maps a target's external attack surface using CT logs, passive DNS, and web archives — no traffic generated on their infrastructure.<br>[Live](https://webweavr.christianherrera.dev) · [Repo](https://github.com/Chrisherr1/WebWeavr)
 
 **Blitzkrieg** `WIP`<br>
 Electron GUI wrapping ffuf and feroxbuster into a unified visual pipeline for web content discovery.<br>
