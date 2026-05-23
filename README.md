@@ -18,7 +18,7 @@ I build backend systems and pick them apart.
 ## Featured Projects
 
 **WebWeavr**<br>
-Zero-footprint OSINT tool that maps a target's external attack surface using CT logs, passive DNS, and web archives — no traffic generated on their infrastructure.<br>[Live](https://webweavr.christianherrera.dev)
+Zero-footprint OSINT tool that maps a target's external attack surface using CT logs, passive DNS, and web archives — no traffic generated on their infrastructure.<br>[Live](https://webweavr.christianherrera.dev) | [Repo](https://github.com/Chrisherr1/WebWeavr)
 
 **Blitzkrieg** `WIP`<br>
 Electron GUI wrapping ffuf and feroxbuster into a unified visual pipeline for web content discovery.<br>
@@ -26,7 +26,7 @@ Electron GUI wrapping ffuf and feroxbuster into a unified visual pipeline for we
 
 **Notepad**<br>
 Note-taking app built security-first — Google OAuth 2.0 handles authentication, self-hosted on a personal VPS.<br>
-[Live](https://notepad.christianherrera.dev) 
+[Live](https://notepad.christianherrera.dev) | [Repo](https://github.com/Chrisherr1/NotePad-Security-Project)
 
 **Kiki's Weather**<br>
 Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed experience — displays custom hand-picked Ghibli GIFs that change dynamically based on current weather conditions.<br>[Repo](https://github.com/Chrisherr1/Kiki-s-Weather-Delivery)
