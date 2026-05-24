@@ -3,7 +3,7 @@ Backend Engineer | Security-Focused · Node.js • Express.js • Electron.js �
 
 I build backend systems and pick them apart.
 
-[Portfolio](https://ChristianHerrera.dev)
+
 
 <p align="center">
   <a href="https://christianherrera.dev">
