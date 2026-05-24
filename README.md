@@ -20,6 +20,10 @@ I build backend systems and pick them apart.
 **WebWeavr**<br>
 Zero-footprint OSINT tool that maps a target's external attack surface using CT logs, passive DNS, and web archives — no traffic generated on their infrastructure.<br>[Live](https://webweavr.christianherrera.dev) | [Repo](https://github.com/Chrisherr1/WebWeavr)
 
+**Node Initializr**<br>
+Spring Initializr-style tool for Node.js — configure your Express project and download a production-ready zip in seconds. Deployed with Docker and GitHub Actions CI/CD on a personal VPS.<br>
+[Live](https://nodeinitializr.christianherrera.dev) | [Repo](https://github.com/Chrisherr1/node-initializr)
+
 **Blitzkrieg** `WIP`<br>
 Electron GUI wrapping ffuf and feroxbuster into a unified visual pipeline for web content discovery.<br>
 [Repo](https://github.com/Chrisherr1/Blitzkrieg)
