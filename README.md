@@ -38,22 +38,45 @@ Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed exp
 ---
 
 ## Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
-  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>
-  <img src="https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
-  <img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx"/>
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/-Burp Suite-05122A?style=flat&logo=portswigger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ffuf-05122A?style=flat&logo=gnu-bash&logoColor=white"/>
-</p>
-
----
+<table align="center">
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>
+      <img src="https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>
+      <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Infrastructure</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
+      <img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx"/>
+      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+      <img src="https://img.shields.io/badge/-GitHub Actions-05122A?style=flat&logo=githubactions"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Security</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Burp Suite-05122A?style=flat&logo=portswigger&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-ffuf-05122A?style=flat&logo=gnu-bash&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ## Currently Reading
 
