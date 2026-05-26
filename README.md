@@ -42,13 +42,15 @@ Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed exp
   <tr>
     <td align="center"><strong>Languages</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+      <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"/>
       <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Frameworks</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
       <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>
       <img src="https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron"/>
     </td>
