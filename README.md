@@ -1,5 +1,5 @@
 # Christian Herrera
-Backend Engineer | Security-Focused · Node.js • Express.js • Electron.js • System Design
+Backend Engineer & Security-Focused | Node.js • Spring Boot • Web Security • System Design
 
 I build backend systems and pick them apart.
 
@@ -84,12 +84,14 @@ Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed exp
   </tr>
 </table>
 
-## Currently Reading
+## Currently Working on
 
-- *The Design of Web APIs* — Arnaud Lauret  
-  `██░░░░░░░░` 20% · Designing consistent, maintainable, consumer-friendly APIs.
-
-- *Grokking Web Security* — Malcolm McDonald  
-  `█████░░░░░` 50% · Practical web security concepts, common vulnerabilities, and defenses.
-
+- Hack the Box - Certified Web Exploitation Specialist <br>
+  `██████░░░` 50% · Going through the modules at the moment. <br>
+  ESTIMATED EXAM DATE: August 2026
+ 
+- PortSwigger - Burp Suite Certified Practitioner <br>
+  `███░░░░░░` 30% · Going through the modules at the moment. <br>
+  ESTIMATED EXAM DATE: August 2026
+  
 ---
