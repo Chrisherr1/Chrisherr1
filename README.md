@@ -87,7 +87,7 @@ Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed exp
 ## Currently Working on
 
 - Hack the Box - Certified Web Exploitation Specialist <br>
-  `██████░░` 80% · Going through the modules at the moment. <br>
+  `████████░` 90% · Going through the modules at the moment. <br>
   ESTIMATED EXAM DATE: August 15 2026
  
 - PortSwigger - Burp Suite Certified Practitioner <br>
