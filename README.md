@@ -69,6 +69,7 @@ Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed exp
   <tr>
     <td align="center"><strong>Infrastructure</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
       <img src="https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx"/>
       <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
@@ -79,6 +80,11 @@ Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed exp
     <td align="center"><strong>Security</strong></td>
     <td>
       <img src="https://img.shields.io/badge/-Burp Suite-05122A?style=flat&logo=portswigger&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-SQLMap-05122A?style=flat&logo=gnu-bash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Netcat-05122A?style=flat&logo=gnu-bash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Hydra-05122A?style=flat&logo=gnu-bash&logoColor=white"/>
       <img src="https://img.shields.io/badge/-ffuf-05122A?style=flat&logo=gnu-bash&logoColor=white"/>
     </td>
   </tr>
@@ -87,7 +93,7 @@ Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed exp
 ## Currently Working on
 
 - Hack the Box - Certified Web Exploitation Specialist <br>
-  `████████░` 90% · Going through the modules at the moment. <br>
+  `████████` 100% · Preparing for Exam <br>
   ESTIMATED EXAM DATE: August 15 2026
  
 - PortSwigger - Burp Suite Certified Practitioner <br>
