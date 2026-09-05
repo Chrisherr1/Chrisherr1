@@ -12,6 +12,7 @@ I build backend systems and pick them apart.
   <a href="https://linkedin.com/in/christianherreradev">
     <img src="https://img.shields.io/badge/LinkedIn-4B5563?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
+  
 ---
   
 ## Certifications
