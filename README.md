@@ -20,7 +20,7 @@ I build backend systems and pick them apart.
 **Hack The Box - Certified Web Exploitation Specialist** <br>
   Black box and white box web exploitation across LFI, SQL injection, RCE, file upload bypasses, SSRF, SSTI, XSS, command injection, and broken authentication.<br>
   Assessed by a live multi host engagement and a written client report with remediation guidance.<br>
-  [Verify on Credly](https://www.credly.com/badges/62c87acd-84b9-41cd-8cf9-d4ae2b154a5a/linked_in_profile)
+  [Verified on Credly](https://www.credly.com/badges/62c87acd-84b9-41cd-8cf9-d4ae2b154a5a/linked_in_profile)
 
 
 ## Featured Projects
@@ -99,10 +99,12 @@ Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed exp
 </table>
 
 ## Currently Working on
-
+- Comptia - Security+ <br>
+  `███░░░░░░` 30% · Going through the modules at the moment. <br>
+  ESTIMATED EXAM DATE: SEPTEMBER 2026
  
 - PortSwigger - Burp Suite Certified Practitioner <br>
   `███░░░░░░` 30% · Going through the modules at the moment. <br>
-  ESTIMATED EXAM DATE: September 2026
+  ESTIMATED EXAM DATE: DECEMBER 2026
   
 ---
