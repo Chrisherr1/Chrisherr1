@@ -1,5 +1,5 @@
 # Christian Herrera
-Backend Engineer & Security-Focused | Node.js • Spring Boot • Web Security • System Design
+Software Engineer & Security-Focused | Node.js • Spring Boot • Web Security • System Design
 
 I build backend systems and pick them apart.
 
