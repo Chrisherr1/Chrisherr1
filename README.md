@@ -100,11 +100,11 @@ Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed exp
 
 ## Currently Working on
 - Comptia - Security+ <br>
-  `███░░░░░░` 30% · Going through the modules at the moment. <br>
+  `███████░░` 80% · Going through the modules at the moment. <br>
   ESTIMATED EXAM DATE: SEPTEMBER 2026
  
-- PortSwigger - Burp Suite Certified Practitioner <br>
-  `███░░░░░░` 30% · Going through the modules at the moment. <br>
-  ESTIMATED EXAM DATE: DECEMBER 2026
+- Hack the box - Certified Web Exploitation Expert <br>
+  `█░░░░░░░░` 10% · Going through the modules at the moment. <br>
+  ESTIMATED EXAM DATE: March 2027
   
 ---
