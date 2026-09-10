@@ -101,7 +101,7 @@ Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed exp
 ## Currently Working on
 - Comptia - Security+ <br>
   `███████░░` 80% · Going through the modules at the moment. <br>
-  ESTIMATED EXAM DATE: SEPTEMBER 2026
+  ESTIMATED EXAM DATE: SEPTEMBER 29 2026
  
 - Hack the box - Certified Web Exploitation Expert <br>
   `█░░░░░░░░` 10% · Going through the modules at the moment. <br>
