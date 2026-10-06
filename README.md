@@ -22,6 +22,10 @@ I build backend systems and pick them apart.
   Assessed by a live multi host engagement and a written client report with remediation guidance.<br>
   [Verified on Credly](https://www.credly.com/badges/62c87acd-84b9-41cd-8cf9-d4ae2b154a5a/linked_in_profile)
 
+**CompTIA Security+ (SY0-701)** <br>
+  Security fundamentals across threat analysis, vulnerability management, secure architecture, security operations, incident response, identity and access management, cryptography, and risk management.<br>
+  Assessed by a timed exam with performance-based questions that simulate hands-on security tasks.<br>
+  Exam Date: Oct 30 2026
 
 ## Featured Projects
 
@@ -91,9 +95,6 @@ Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed exp
 </table>
 
 ## Currently Working on
-- Comptia - Security+ <br>
-  `███████░░` 80% · Going through the modules at the moment. <br>
-  ESTIMATED EXAM DATE: SEPTEMBER 29 2026
  
 - Hack the box - Certified Web Exploitation Expert <br>
   `█░░░░░░░░` 10% · Going through the modules at the moment. <br>
