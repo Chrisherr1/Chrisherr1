@@ -43,7 +43,12 @@ Note-taking app built security-first — Google OAuth 2.0 handles authentication
 **Kiki's Weather**<br>
 Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed experience — displays custom hand-picked Ghibli GIFs that change dynamically based on current weather conditions.<br>[Repo](https://github.com/Chrisherr1/Kiki-s-Weather-Delivery)
 
----
+## Personal Notes
+**[Security-](https://github.com/Chrisherr1/Security-)**<br>
+CompTIA Security+ Notes<br>
+
+**[AWS-developer-notes](https://github.com/Chrisherr1/AWS-developer-notes)**<br>
+AWS Developer Notes<br>
 
 ## Technologies
 <table align="center">
@@ -93,11 +98,4 @@ Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed exp
     </td>
   </tr>
 </table>
-
-## Currently Working on
  
-- Hack the box - Certified Web Exploitation Expert <br>
-  `█░░░░░░░░` 10% · Going through the modules at the moment. <br>
-  ESTIMATED EXAM DATE: March 2027
-  
----
