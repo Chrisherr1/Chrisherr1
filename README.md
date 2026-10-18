@@ -44,11 +44,14 @@ Note-taking app built security-first — Google OAuth 2.0 handles authentication
 Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed experience — displays custom hand-picked Ghibli GIFs that change dynamically based on current weather conditions.<br>[Repo](https://github.com/Chrisherr1/Kiki-s-Weather-Delivery)
 
 ## Personal Notes
-**[Security-](https://github.com/Chrisherr1/Security-)**<br>
+**[Security+](https://github.com/Chrisherr1/Security-)**<br>
 CompTIA Security+ Notes<br>
 
-**[AWS-developer-notes](https://github.com/Chrisherr1/AWS-developer-notes)**<br>
+**[AWS Developer Notes](https://github.com/Chrisherr1/AWS-developer-notes)**<br>
 AWS Developer Notes<br>
+
+**[Portswigger](https://github.com/Chrisherr1/portswigger-notes)**<br>
+PortSwigger Web Security Academy Notes <br>
 
 ## Technologies
 <table align="center">
