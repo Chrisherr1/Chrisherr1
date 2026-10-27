@@ -25,7 +25,7 @@ I build backend systems and pick them apart.
 **CompTIA Security+ (SY0-701)** <br>
   Security fundamentals across threat analysis, vulnerability management, secure architecture, security operations, incident response, identity and access management, cryptography, and risk management.<br>
   Assessed by a timed exam with performance-based questions that simulate hands-on security tasks.<br>
- [Verified on Credly](https://www.credly.com/badges/62c87acd-84b9-41cd-8cf9-d4ae2b154a5a/linked_in_profile)
+ [Verified on Credly](https://www.credly.com/badges/47d06c31-f3ef-4f23-8565-43aded8ab933)
 
 ## Featured Projects
 
