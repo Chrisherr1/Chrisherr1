@@ -17,17 +17,17 @@ I build backend systems and pick them apart.
   
 ## Certifications
 
-**PortSwigger Burp Suite Certified Practitioner (BSCP)** <br>
+### **PortSwigger Burp Suite Certified Practitioner (BSCP)** <br>
   Black box web exploitation with Burp Suite Professional across XSS, CSRF, SQL injection, SSRF, XXE, SSTI, OS command injection, HTTP request smuggling, web cache poisoning, insecure deserialization, prototype pollution, JWT and OAuth attacks, access control, and authentication bypasses.<br>
   > Assessed by a proctored four hour practical exam compromising multiple web applications, with the objective of fully compromising the web applications.<br>
   **Expected December 2026**
 
-**Hack The Box - Certified Web Exploitation Specialist** <br>
+### **Hack The Box - Certified Web Exploitation Specialist** <br>
   Black box and white box web exploitation across LFI, SQL injection, RCE, file upload bypasses, SSRF, SSTI, XSS, command injection, and broken authentication.<br>
   > Assessed by a proctored 7 day practical exam compromising multiple vulnerable web applications, with the objective of obtaining RCE on each. Ending with a Professional bug bounty report on all vulnerabilities found, how to reproduce, and remediate findings.<br>
   [Verified on Credly](https://www.credly.com/badges/62c87acd-84b9-41cd-8cf9-d4ae2b154a5a/linked_in_profile)
 
-**CompTIA Security+ (SY0-701)** <br>
+### **CompTIA Security+ (SY0-701)** <br>
   Security fundamentals across threat analysis, vulnerability management, secure architecture, security operations, incident response, identity and access management, cryptography, and risk management.<br>
   
   > Assessed by a timed exam with performance-based questions that simulate hands-on security tasks.<br>
