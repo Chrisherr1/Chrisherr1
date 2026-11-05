@@ -17,7 +17,7 @@ I build backend systems and pick them apart.
   
 ## Certifications
 
-### **PortSwigger Burp Suite Certified Practitioner (BSCP)** <br>
+### **PortSwigger - Burp Suite Certified Practitioner (BSCP)** <br>
   Black box web exploitation with Burp Suite Professional across XSS, CSRF, SQL injection, SSRF, XXE, SSTI, OS command injection, HTTP request smuggling, web cache poisoning, insecure deserialization, prototype pollution, JWT and OAuth attacks, access control, and authentication bypasses.<br>
   > Assessed by a proctored four hour practical exam compromising multiple web applications, with the objective of fully compromising the web applications.<br>
   **Expected December 2026**
