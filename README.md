@@ -40,6 +40,7 @@ Security fundamentals: threat analysis, vulnerability management, secure archite
 
 > **Exam:** timed, with performance-based questions simulating hands-on tasks.
 </details>
+
 ## Featured Projects
 
 **WebWeavr**<br>
