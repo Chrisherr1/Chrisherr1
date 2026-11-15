@@ -22,7 +22,7 @@ I build backend systems and pick them apart.
 
 Black box web exploitation with Burp Suite Pro: XSS, CSRF, SQLi, SSRF, XXE, SSTI, OS command injection, HTTP request smuggling, web cache poisoning, insecure deserialization, prototype pollution, JWT and OAuth attacks, access control and authentication bypasses.
 
-> **Exam:** proctored 4-hour practical — fully compromise multiple web applications.
+> **Exam:** Assessed by a proctored four hour practical exam compromising multiple web applications, with the objective of fully compromising the web applications.
 </details>
 
 <details>
@@ -30,7 +30,7 @@ Black box web exploitation with Burp Suite Pro: XSS, CSRF, SQLi, SSRF, XXE, SSTI
 
 Black box and white box web exploitation: LFI, SQLi, RCE, file upload bypasses, SSRF, SSTI, XSS, command injection, broken authentication.
 
-> **Exam:** proctored 7-day practical — RCE on each of multiple vulnerable applications, plus a professional bug bounty report covering reproduction and remediation for every finding.
+> **Exam:** Assessed by a proctored 7 day practical exam compromising multiple vulnerable web applications, with the objective of obtaining RCE on each.<br>Ending with a Professional bug bounty report on all vulnerabilities found, how to reproduce, and remediate findings.
 </details>
 
 <details>
@@ -38,7 +38,7 @@ Black box and white box web exploitation: LFI, SQLi, RCE, file upload bypasses, 
 
 Security fundamentals: threat analysis, vulnerability management, secure architecture, security operations, incident response, IAM, cryptography, risk management.
 
-> **Exam:** timed, with performance-based questions simulating hands-on tasks.
+> **Exam:** Assessed by a timed exam with performance-based questions that simulate hands-on security tasks.<br>
 </details>
 
 ## Featured Projects
