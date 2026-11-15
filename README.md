@@ -13,26 +13,33 @@ I build backend systems and pick them apart.
     <img src="https://img.shields.io/badge/LinkedIn-4B5563?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   
----
+
   
 ## Certifications
 
-### **PortSwigger - Burp Suite Certified Practitioner (BSCP)** <br>
-  Black box web exploitation with Burp Suite Professional across XSS, CSRF, SQL injection, SSRF, XXE, SSTI, OS command injection, HTTP request smuggling, web cache poisoning, insecure deserialization, prototype pollution, JWT and OAuth attacks, access control, and authentication bypasses.<br>
-  > Assessed by a proctored four hour practical exam compromising multiple web applications, with the objective of fully compromising the web applications.<br>
-  **Expected December 2026**
+<details>
+<summary><b>PortSwigger — Burp Suite Certified Practitioner (BSCP)</b> — <i>Expected Dec 2026</i></summary>
 
-### **Hack The Box - Certified Web Exploitation Specialist (CWES)** <br>
-  Black box and white box web exploitation across LFI, SQL injection, RCE, file upload bypasses, SSRF, SSTI, XSS, command injection, and broken authentication.<br>
-  > Assessed by a proctored 7 day practical exam compromising multiple vulnerable web applications, with the objective of obtaining RCE on each. Ending with a Professional bug bounty report on all vulnerabilities found, how to reproduce, and remediate findings.<br>
-  [Verified on Credly](https://www.credly.com/badges/62c87acd-84b9-41cd-8cf9-d4ae2b154a5a/linked_in_profile)
+Black box web exploitation with Burp Suite Pro: XSS, CSRF, SQLi, SSRF, XXE, SSTI, OS command injection, HTTP request smuggling, web cache poisoning, insecure deserialization, prototype pollution, JWT and OAuth attacks, access control and authentication bypasses.
 
-### **CompTIA Security+ (SY0-701)** <br>
-  Security fundamentals across threat analysis, vulnerability management, secure architecture, security operations, incident response, identity and access management, cryptography, and risk management.<br>
-  
-  > Assessed by a timed exam with performance-based questions that simulate hands-on security tasks.<br>
- [Verified on Credly](https://www.credly.com/badges/47d06c31-f3ef-4f23-8565-43aded8ab933)
+> **Exam:** proctored 4-hour practical — fully compromise multiple web applications.
+</details>
 
+<details>
+<summary><b>Hack The Box — Certified Web Exploitation Specialist (CWES)</b> — <a href="https://www.credly.com/badges/62c87acd-84b9-41cd-8cf9-d4ae2b154a5a/linked_in_profile">Verified</a></summary>
+
+Black box and white box web exploitation: LFI, SQLi, RCE, file upload bypasses, SSRF, SSTI, XSS, command injection, broken authentication.
+
+> **Exam:** proctored 7-day practical — RCE on each of multiple vulnerable applications, plus a professional bug bounty report covering reproduction and remediation for every finding.
+</details>
+
+<details>
+<summary><b>CompTIA Security+ (SY0-701)</b> — <a href="https://www.credly.com/badges/47d06c31-f3ef-4f23-8565-43aded8ab933">Verified</a></summary>
+
+Security fundamentals: threat analysis, vulnerability management, secure architecture, security operations, incident response, IAM, cryptography, risk management.
+
+> **Exam:** timed, with performance-based questions simulating hands-on tasks.
+</details>
 ## Featured Projects
 
 **WebWeavr**<br>
