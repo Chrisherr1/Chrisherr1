@@ -67,6 +67,9 @@ AWS Developer Notes<br>
 **[Portswigger](https://github.com/Chrisherr1/portswigger-notes)**<br>
 PortSwigger Web Security Academy Notes <br>
 
+**[Certified Offensive AI Expert](https://github.com/Chrisherr1/COAE)**<br>
+Hack the Box - COAE Notes <br>
+
 ## Technologies
 <table align="center">
   <tr>
