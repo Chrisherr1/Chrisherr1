@@ -1,9 +1,7 @@
 # Christian Herrera
-Software Engineer & Security-Focused | Node.js • Spring Boot • Web Security • System Design
+Software Engineer & Security-Focused | Node.js • Spring Boot • Web Security • AI/LLM Security • System Design
 
 I build backend systems and pick them apart.
-
-
 
 <p align="center">
   <a href="https://christianherrera.dev">
@@ -12,9 +10,8 @@ I build backend systems and pick them apart.
   <a href="https://linkedin.com/in/christianherreradev">
     <img src="https://img.shields.io/badge/LinkedIn-4B5563?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  
+</p>
 
-  
 ## Certifications
 
 <details>
@@ -23,6 +20,14 @@ I build backend systems and pick them apart.
 Black box web exploitation with Burp Suite Pro: XSS, CSRF, SQLi, SSRF, XXE, SSTI, OS command injection, HTTP request smuggling, web cache poisoning, insecure deserialization, prototype pollution, JWT and OAuth attacks, access control and authentication bypasses.
 
 > **Exam:** Assessed by a proctored four hour practical exam compromising multiple web applications, with the objective of fully compromising the web applications.
+</details>
+
+<details>
+<summary><b>Hack The Box — Certified Offensive AI Expert (COAE)</b> — <i>Expected Dec 2026</i></summary>
+
+Adversarial machine learning, LLM prompt injection and jailbreaking, LLM output exploitation, AI application and system security, AI defense, and AI privacy. Curriculum co-developed with Google and aligned to Google's SAIF, the OWASP ML Security Top 10, OWASP Agentic Top 10, and the OWASP Top 10 for LLM Applications 2025.
+
+> **Exam:** Assessed by a hands-on practical exam identifying and exploiting vulnerabilities in AI and ML systems.<br>Ending with a client-ready AI red team assessment report.
 </details>
 
 <details>
@@ -58,17 +63,18 @@ Note-taking app built security-first — Google OAuth 2.0 handles authentication
 Menu bar weather app for macOS, Windows, and Linux featuring a Ghibli-themed experience — displays custom hand-picked Ghibli GIFs that change dynamically based on current weather conditions.<br>[Repo](https://github.com/Chrisherr1/Kiki-s-Weather-Delivery)
 
 ## Personal Notes
-**[Security+](https://github.com/Chrisherr1/Security-)**<br>
-CompTIA Security+ Notes<br>
-
-**[AWS Developer Notes](https://github.com/Chrisherr1/AWS-developer-notes)**<br>
-AWS Developer Notes<br>
-
-**[Portswigger](https://github.com/Chrisherr1/portswigger-notes)**<br>
-PortSwigger Web Security Academy Notes <br>
 
 **[Certified Offensive AI Expert](https://github.com/Chrisherr1/COAE)**<br>
-Hack the Box - COAE Notes <br>
+Hack The Box COAE notes — ML foundations, the ML OWASP Top 10, prompt injection, and jailbreaking<br>
+
+**[PortSwigger](https://github.com/Chrisherr1/portswigger-notes)**<br>
+PortSwigger Web Security Academy notes<br>
+
+**[Security+](https://github.com/Chrisherr1/Security-)**<br>
+CompTIA Security+ notes<br>
+
+**[AWS Developer](https://github.com/Chrisherr1/AWS-developer-notes)**<br>
+AWS Developer notes<br>
 
 ## Technologies
 <table align="center">
@@ -78,6 +84,7 @@ Hack the Box - COAE Notes <br>
       <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
       <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"/>
       <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -115,7 +122,7 @@ Hack the Box - COAE Notes <br>
       <img src="https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Hydra-05122A?style=flat&logo=gnu-bash&logoColor=white"/>
       <img src="https://img.shields.io/badge/-ffuf-05122A?style=flat&logo=gnu-bash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-garak-05122A?style=flat&logo=gnu-bash&logoColor=white"/>
     </td>
   </tr>
 </table>
- 
