@@ -48,6 +48,10 @@ Security fundamentals: threat analysis, vulnerability management, secure archite
 
 ## Featured Projects
 
+**AppSec Drills**<br>
+Offline AppSec practice: 54 drills in security scripting and secure code review, checked by running them.
+<br>[Repo](https://github.com/Chrisherr1/AppSec-Training)
+
 **WebWeavr**<br>
 Zero-footprint OSINT tool that maps a target's external attack surface using CT logs, passive DNS, and web archives — no traffic generated on their infrastructure.<br>[Live](https://webweavr.christianherrera.dev) | [Repo](https://github.com/Chrisherr1/WebWeavr)
 
